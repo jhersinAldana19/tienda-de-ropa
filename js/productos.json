@@ -1,0 +1,182 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Casaca bomber Lose",
+        "imagen": "./img/abrigos/01.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 177.65
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Shaket de lona Regular",
+        "imagen": "./img/abrigos/02.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 109.65
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Casaca en mezcla de nilo",
+        "imagen": "./img/abrigos/03.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 92.75
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Casaca alcolchada ligera",
+        "imagen": "./img/abrigos/04.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 177.65
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Chompa Slim Fit ",
+        "imagen": "./img/abrigos/05.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 84.96
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Polo regular",
+        "imagen": "./img/camisetas/01.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 35.43
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Polo con motivo regular",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 45.10
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Polo slim fit",
+        "imagen": "./img/camisetas/03.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 54.13
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Camiseta fyf",
+        "imagen": "./img/camisetas/04.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 22.50
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Polo loose fit",
+        "imagen": "./img/camisetas/05.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 76.43
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Polo regular rojo",
+        "imagen": "./img/camisetas/06.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 30.00
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Polo arduino",
+        "imagen": "./img/camisetas/07.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1999
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Polo con estampado",
+        "imagen": "./img/camisetas/08.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 27.00
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Pantalón robert crema",
+        "imagen": "./img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 60.50
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Pantalón cargo de lona",
+        "imagen": "./img/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 55.45
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Pantalón denim",
+        "imagen": "./img/pantalones/03.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 80.15
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalón cargo de twill",
+        "imagen": "./img/pantalones/04.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 70.30
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Pantalón calce ancho",
+        "imagen": "./img/pantalones/05.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 60.45
+    }
+]
